@@ -1,5 +1,6 @@
 ### Hi there 👋🏻 I'm Daniel 👨🏻‍💻
 
+
 <!--
 **danimelenge/danimelenge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -66,6 +67,8 @@ Sounds 🎼 🎧
 <img src="https://img.shields.io/badge/Apple_Podcasts-9933CC?style=for-the-badge&logo=apple-podcasts&logoColor=white" /> 
 <img src="https://img.shields.io/badge/Shazam-0088FF?style=for-the-badge&logo=Shazam&logoColor=white" /> 
 <img src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white" />  
+
+[![My Skills](https://skillicons.dev/icons?i=git,github,figma,vscode,twitter,swift,py,ps,instagram,html,css,ai,dart)](https://skillicons.dev)
 
 
 
