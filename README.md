@@ -1,5 +1,8 @@
 ### Hi there 👋🏻 I'm Daniel 👨🏻‍💻
 
+<h1><img src="https://slackmojis.com/emojis/59391-checked/download" width="30"/></h1> 
+<h1><img src="https://slackmojis.com/emojis/62008-party-github/download" width="30"/></h1>
+
 
 <!--
 **danimelenge/danimelenge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
