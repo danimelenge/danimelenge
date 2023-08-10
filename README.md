@@ -73,7 +73,7 @@ Sounds 🎼 🎧
 
 [![My Skills](https://skillicons.dev/icons?i=git,github,figma,vscode,twitter,swift,py,ps,instagram,html,css,ai,dart)](https://skillicons.dev)
 
-Cars
+Cars 🏎️💨💨💨
 <div style="display:inline_block"><br/>
 <img src="https://aleen42.github.io/badges/src/tesla.svg" />
 <img src="https://aleen42.github.io/badges/src/bmw.svg" />
