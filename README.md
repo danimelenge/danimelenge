@@ -71,7 +71,7 @@ Sounds 🎼 🎧
 <img src="https://img.shields.io/badge/Shazam-0088FF?style=for-the-badge&logo=Shazam&logoColor=white" /> 
 <img src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white" />  
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,figma,vscode,twitter,swift,py,ps,instagram,html,css,ai,dart)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,figma,vscode,twitter,swift,py,ps,instagram,html,css,ai)](https://skillicons.dev)
 
 Cars 🏎️💨💨💨
 <div style="display:inline_block"><br/>
