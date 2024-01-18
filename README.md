@@ -72,7 +72,7 @@ Sounds 🎼 🎧
 <img src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white" />  
 
 [![My Skills](https://skillicons.dev/icons?i=git,github,figma,vscode,twitter,swift,py,ps,instagram,html,css,ai)](https://skillicons.dev)
-https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white
+
 Cars 🏎️💨💨💨
 <div style="display:inline_block"><br/>
 <img src="https://aleen42.github.io/badges/src/tesla.svg" />
