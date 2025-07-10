@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👨🏻‍💻 Daniel Melenge
+# 👨‍💻 Daniel Melenge
 
 **iOS Developer | Swift | SwiftUI | Designer**
 
@@ -50,6 +50,9 @@ I'm constantly exploring best practices, performance optimization, and new tools
 <p align="center">
   <a href="https://www.linkedin.com/in/daniel-melenge-239077334/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+  </a>
+  <a href="https://www.duolingo.com/profile/danimelenge?via=share_profile_qr" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white" alt="Duolingo Badge" />
   </a>
 </p>
 
