@@ -2,7 +2,7 @@
 
 # 👨🏻‍💻 Daniel Melenge 
 
-**iOS Developer | Swift | SwiftUI | Designer**
+**iOS Developer | Swift | SwiftUI | Designer** 
 
 Hi, I'm **Daniel Melenge**, an iOS Developer with a strong passion for Apple technologies.  
 I specialize in **Swift** and **SwiftUI** for building modern, user-centric iOS applications.  
