@@ -31,6 +31,9 @@ I'm constantly exploring best practices, performance optimization, and new tools
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge" />
+    <a href="https://www.anthropic.com/claude" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Badge" />
+</a>
   </a>
 </p>
 
@@ -53,6 +56,10 @@ I'm constantly exploring best practices, performance optimization, and new tools
   </a>
   <a href="https://www.duolingo.com/profile/danimelenge?via=share_profile_qr" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white" alt="Duolingo Badge" />
+    <a href="https://github.com/danimelenge" target="_blank" rel="noopener noreferrer">
+      <br><br>
+  <img src="https://img.shields.io/github/followers/danimelenge?label=Follow&style=for-the-badge&logo=github&logoColor=white&color=000000" alt="Follow on GitHub" />
+</a>
   </a>
 </p>
 
