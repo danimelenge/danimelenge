@@ -23,6 +23,7 @@ I'm constantly exploring best practices, performance optimization, and new tools
   <a href="https://www.python.org" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python Badge" />
   </a>
+  
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge" />
@@ -60,10 +61,15 @@ I'm constantly exploring best practices, performance optimization, and new tools
   <a href="https://www.duolingo.com/profile/danimelenge?via=share_profile_qr" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white" alt="Duolingo Badge" />
     <a href="https://github.com/danimelenge" target="_blank" rel="noopener noreferrer">
-      <br><br>
-  <img src="https://img.shields.io/github/followers/danimelenge?label=Follow&style=for-the-badge&logo=github&logoColor=white&color=000000" alt="Follow on GitHub" />
-</a>
+    
+<br><br>
+
+<img src="https://img.shields.io/github/followers/danimelenge?label=Follow&style=for-the-badge&logo=github&logoColor=white&color=000000" alt="Follow on GitHub" />
+
+<img src="https://img.shields.io/badge/Apple%20Developer-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Apple Developer" />
+
   </a>
 </p>
+
 
 </div> 
