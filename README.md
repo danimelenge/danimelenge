@@ -39,11 +39,14 @@ I'm constantly exploring best practices, performance optimization, and new tools
 
 ---
 
-## 💻 IDEs
+💻 IDEs
 
 <p align="center">
   <img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white" alt="Xcode Badge" />
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code Badge" />
+  <a href="https://antigravity.google/">
+    <img src="https://img.shields.io/badge/IDE-Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Antigravity IDE Badge" />
+  </a>
 </p>
 
 ---
