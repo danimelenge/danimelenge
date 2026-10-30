@@ -11,9 +11,9 @@ I'm constantly exploring best practices, performance optimization, and new tools
 
 ---
 
-## 🛠️ Technologies
-
 <p align="center">
+  <strong>🛠️ Technologies</strong>
+</p>
   <a href="https://swift.org" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift Badge" />
   </a>
@@ -52,9 +52,9 @@ I'm constantly exploring best practices, performance optimization, and new tools
 
 ---
 
-## 🌐 Connect with Me
-
 <p align="center">
+  <strong>🌐 Connect with Me</strong>
+</p>
   <a href="https://www.linkedin.com/in/daniel-melenge-239077334/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
